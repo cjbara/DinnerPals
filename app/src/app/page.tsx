@@ -94,7 +94,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="py-8 text-center text-sm text-slate-400">
-        <p>DinnerPals — Good food, better friends.</p>
+        <p>DinnerPals v1.0.1 — Good food, better friends.</p>
       </footer>
     </div>
   );
